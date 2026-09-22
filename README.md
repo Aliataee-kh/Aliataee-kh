@@ -9,9 +9,11 @@ With a PhD in Soil Physics and over 10 years of experience in research, technica
 ## 🛠 Skills
 
 **Data & BI**
+
 SQL Server · T-SQL · Power BI · DAX · Power Query · Excel · Data Modeling · ETL · Star Schema
 
 **Programming & Statistical Analysis**
+
 Python · Pandas · NumPy · SPSS · SAS · Minitab · ANOVA · Regression · PCA
 
 ## 📂 Featured Projects
