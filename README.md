@@ -18,7 +18,7 @@ Python · Pandas · NumPy · SPSS · SAS · Minitab · ANOVA · Regression · PC
 
 ## 📂 Featured Projects
 
-### 📊 Agricultural Statistics Dashboard | 1399–1405
+### [📊 Agricultural Statistics Dashboard | 1399–1404](https://github.com/Aliataee-kh/agri-statistics-sql-powerbi)
 
 National agricultural statistics covering crop production, cultivated area, and yield, integrated and modeled in **SQL Server using a Star Schema**.
 
