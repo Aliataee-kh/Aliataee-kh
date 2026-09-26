@@ -32,9 +32,10 @@ End-to-end data pipeline for the national agricultural census:
 
 Includes agricultural and orchard production data with province, county, product, and irrigation-level analysis.
 
-### 👥 Human Resources Management Dashboard
 
-Interactive **Power BI dashboard** for HR and management analytics, currently under development.
+### 👥 [Human Resources Management Dashboard](https://github.com/Aliataee-kh/Human-Resources-Management-Dashboard)
+
+Interactive Power BI dashboard for HR and management analytics. Covers personnel overview and KPIs, individual employee scorecards, monthly salary and performance trends with deviation from personal averages, geographic distribution of employees, and top-performer rankings.
 
 ## 🎓 Background
 
